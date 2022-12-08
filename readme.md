@@ -4,3 +4,4 @@ Origin что такое
 Разница между git fetch и git pull
 
 some info about fix
+last changes from fix1
